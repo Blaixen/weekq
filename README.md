@@ -1,2 +1,3 @@
 # weekq
-a mod of fnf
+To play, replace the old assets with the new assets, the old assets are replaced with copies.
+
